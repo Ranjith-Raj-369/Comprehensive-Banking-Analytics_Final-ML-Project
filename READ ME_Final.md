@@ -32,9 +32,11 @@ Python for data preprocessing, analysis, and modeling.
 Scikit-learn for implementing machine learning algorithms.
 Visualization tools such as Matplotlib or Seaborn for data exploration.
 
-# Data visualization: Ploted colleration matrix to get insights about dependend and independed variables. Made chats like( Bocxplot,countplot,distplot,pairplot).
+# Data visualization: 
+Ploted colleration matrix to get insights about dependend and independed variables. Made chats like( Bocxplot,countplot,distplot,pairplot).
 
-# Model Selection: K-Means+ clustering algorithm is used for creating segments and Made many classifiers models like Logistic Regression,RandomForestClassifier,DecisionTreeClassifier,LGBM classifier but selected LIGHT GBM Classifier.
+# Model Selection: 
+K-Means+ clustering algorithm is used for creating segments and Made many classifiers models like Logistic Regression,RandomForestClassifier,DecisionTreeClassifier,LGBM classifier but selected LIGHT GBM Classifier.
 
 **Model Accuracy: 98%**
 
